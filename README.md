@@ -1,6 +1,6 @@
 # fb-automation
 # Functions available
-like_random_posts_on_homepage - simulate scrooling on homepage and like random posts
+like_random_posts_on_homepage - simulate scrooling on homepage and like random posts<br>
 open_random_posts_link_on_homepage - simulate scrooling on homepage and open random links
 story_view - watch random stories(skip to next...)
 click_on_ad - click on ads in top right corner
