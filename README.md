@@ -1,14 +1,14 @@
 # fb-automation
 # Functions available
 like_random_posts_on_homepage - simulate scrooling on homepage and like random posts<br>
-open_random_posts_link_on_homepage - simulate scrooling on homepage and open random links
-story_view - watch random stories(skip to next...)
-click_on_ad - click on ads in top right corner
-add_mutual_friend - sending friend request to mutual friends
-like_random_posts_group_feed - simulate scrooling on group feed and like random posts
-random_send_friend_request_on_group_feed - simulate scrooling on group feed and sending friend requests from likes popup
-wish_birthday - if it is someones birthday, congratulate him with one message, can be configured on "291" line
-accept_friend_request - accept friend requests
+open_random_posts_link_on_homepage - simulate scrooling on homepage and open random links<br>
+story_view - watch random stories(skip to next...)<br>
+click_on_ad - click on ads in top right corner<br>
+add_mutual_friend - sending friend request to mutual friends<br>
+like_random_posts_group_feed - simulate scrooling on group feed and like random posts<br>
+random_send_friend_request_on_group_feed - simulate scrooling on group feed and sending friend requests from likes popup<br>
+wish_birthday - if it is someones birthday, congratulate him with one message, can be configured on "291" line<br>
+accept_friend_request - accept friend requests<br>
 
 # How to use?
 1. Install python 2.7 via anaconda or manual.
