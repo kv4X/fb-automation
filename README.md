@@ -1,5 +1,22 @@
 # fb-automation
+# Functions available
+like_random_posts_on_homepage - simulate scrooling on homepage and like random posts
+open_random_posts_link_on_homepage - simulate scrooling on homepage and open random links
+story_view - watch random stories(skip to next...)
+click_on_ad - click on ads in top right corner
+add_mutual_friend - sending friend request to mutual friends
+like_random_posts_group_feed - simulate scrooling on group feed and like random posts
+random_send_friend_request_on_group_feed - simulate scrooling on group feed and sending friend requests from likes popup
+wish_birthday - if it is someones birthday, congratulate him with one message, can be configured on "291" line
+accept_friend_request - accept friend requests
 
+# How to use?
+1. Install python 2.7 via anaconda or manual.
+2. Install selenium webdriver: pip install -U selenium
+3. Install chrome webdriver.
+5. Change path of chrome webdriver on "78" line.
+6. Enter your email and password: on "85" and "86" line.
+7. python profile.py to start script.
 
 # Disclaimer
 This repository is for research purposes only, the use of this code is your responsibility.
